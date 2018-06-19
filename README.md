@@ -7,3 +7,4 @@ For our Web Developer course we were given an unfinished Jasmine test. I modifie
 
 Install node.js and Jasmine and open index.html on any browser.
 # test-jasmine
+# jasmine-test
